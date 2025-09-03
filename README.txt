@@ -1,6 +1,8 @@
 *Overview*
 This modelling platform (Tarlak et al., 2025) lets you build, compare, and evaluate microbial growth and inactivation models.
 It supports both one-step and two-step modelling approaches, and you can benchmark traditional/statistical methods against machine-learning (ML) methods within the same interface.
+The sample datasets provided were synthetically generated based on data from the ComBase database.
+These datasets are intended for demonstration and learning purposes only, and should not be used as a substitute for experimental validation.
 
 *Key Features*:
 Compare one-step vs. two-step modelling workflows
@@ -69,3 +71,4 @@ If you use this platform in your work, please cite:
 Tarlak, F., Şimşek, B.B., Şahin, M., & Pérez-Rodríguez, F., (2025). Next-Generation Predictive Microbiology: A Software Platform Combining Two-Step, One-Step and Machine Learning Modelling. Foods, ..(..), .... https://doi.org/.........
 
 **Thank you very much.**
+
